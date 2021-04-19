@@ -1,1 +1,1 @@
-console.log("hello world")
+console.log("hello worldgit push -u origin maingit remote add origin https://github.com/benjavillac/test.git")
